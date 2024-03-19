@@ -53,7 +53,7 @@ Feel free to contact us if you find a mistake or have any advice.
 
 ### Unfairness
 #### Unfairness in Data Collection
-1. 
+1. **Measuring and Mitigating Unintended Bias in Text Classification**, AIES '18. [[Paper]](https://dl.acm.org/doi/10.1145/3278721.3278729) ![](https://img.shields.io/badge/User-Unfairness-orange) ![](https://img.shields.io/badge/Data-Augmentation-darkcyan)
 
 #### Unfairness in Model Development
 1. 
