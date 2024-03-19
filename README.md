@@ -67,7 +67,7 @@ Feel free to contact us if you find a mistake or have any advice.
 12. **Identifying and Reducing Gender Bias in Word-Level Language Models**, NAACL '19. [[Paper]](https://aclanthology.org/N19-3002.pdf) ![](https://img.shields.io/badge/User_Unfairness-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 13. **Reducing Sentiment Bias in Language Models via Counterfactual Evaluation**， Findings-EMNLP' 20. [[Paper]](https://aclanthology.org/2020.findings-emnlp.7/) ![](https://img.shields.io/badge/User_Unfairness-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 14. **Reducing Gender Bias in Word-Level Language Models with a Gender-Equalizing Loss Function**, ACL-workshop '19. [[Paper]](https://aclanthology.org/P19-2031/) ![](https://img.shields.io/badge/User_Unfairness-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
-15. **Bias of AI-Generated Content: An Examination of News Produced by Large Language Models**, Preprint 2023. [[Paper]]([https://arxiv.org/abs/2309.09825]) ![](https://img.shields.io/badge/User_Unfairness-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
+15. **Bias of AI-Generated Content: An Examination of News Produced by Large Language Models**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2309.09825) ![](https://img.shields.io/badge/User_Unfairness-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 
 #### Unfairness in Model Development
 1. 
