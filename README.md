@@ -10,7 +10,8 @@ Feel free to contact us if you find a mistake or have any advice.
 #### Bias in Data Collection
 1. **LLMs may Dominate Information Access: Neural Retrievers are Biased Towards LLM-Generated Texts**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2310.20501) ![](https://img.shields.io/badge/Source_Bias-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 2. **AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2311.14084) ![](https://img.shields.io/badge/Source_Bias-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
-3. 
+3. **Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts for Open-Domain QA?**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2401.11911) ![](https://img.shields.io/badge/Source_Bias-orange)
+
 
 #### Bias in Model Development
 1. **Large Language Models are Zero-Shot Rankers for Recommender Systems**, ECIR 2024. [[Paper]](https://arxiv.org/abs/2305.08845) ![](https://img.shields.io/badge/Position_Bias-orange) ![](https://img.shields.io/badge/Popularity_Bias-orange) ![](https://img.shields.io/badge/Data_Augmentation-darkcyan) ![](https://img.shields.io/badge/Prompting-darkcyan)
