@@ -130,6 +130,18 @@ We introduce a unified framework to understand these issues as distribution mism
 
     
 #### Unfairness in Result Evaluation
+1. **Estimating the Personality of White-Box Language Models**, Preprint 2022 [[Paper]](https://arxiv.org/abs/2204.12000) ![](https://img.shields.io/badge/User_Unfairness-orange) ![](https://img.shields.io/badge/Data_Augmentation-darkcyan)
+2. **Tailoring Personality Traits in Large Language Models via Unsupervisedly-Built Personalized Lexicons**, Preprint 2022 [[Paper]](https://arxiv.org/abs/2310.16582) ![](https://img.shields.io/badge/User_Unfairness-orange) ![](https://img.shields.io/badge/Data_filtering-darkcyan)
+3. **FairMonitor: A Four-Stage Automatic Framework for Detecting Stereotypes and Biases in Large Language Models**, Preprint 2023 [[Paper]](https://arxiv.org/abs/2308.10397) ![](https://img.shields.io/badge/User_Unfairness-orange) ![](https://img.shields.io/badge/Prompting-darkcyan)
+4. **Evaluating and Inducing Personality in Pre-trained Language Models**, NeurIPS '23 [[Paper]](https://arxiv.org/abs/2206.07550) ![](https://img.shields.io/badge/User_Unfairness-orange) ![](https://img.shields.io/badge/Prompting-darkcyan)
+5. **Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models**, Preprint 2023 [[Paper]](https://arxiv.org/abs/2307.16180) ![](https://img.shields.io/badge/User_Unfairness-orange) ![](https://img.shields.io/badge/Prompting-darkcyan)
+6. **Studying Large Language Model Generalization with Influence Functions**, Preprint 2023 [[Paper]](https://arxiv.org/abs/2308.03296) ![](https://img.shields.io/badge/Item_Unfairness-orange) ![](https://img.shields.io/badge/Prompting-darkcyan)
+7. **Towards Tracing Knowledge in Language Models Back to the Training Data**, EMNLP findings '23 [[Paper]](https://aclanthology.org/2022.findings-emnlp.180/) ![](https://img.shields.io/badge/Item_Unfairness-orange) ![](https://img.shields.io/badge/Rebalancing-darkcyan)
+8. **Detecting Pretraining Data from Large Language Models**, Preprint 2023   [[Paper]](https://arxiv.org/abs/2310.16789) ![](https://img.shields.io/badge/Item_Unfairness-orange) ![](https://img.shields.io/badge/Rebalancing-darkcyan)
+9. **Watermarking Makes Language Models Radioactive**, Preprint 2024 [[Paper]](https://arxiv.org/abs/2402.14904) ![](https://img.shields.io/badge/Item_Unfairness-orange) ![](https://img.shields.io/badge/Prompting-darkcyan)
+10. **WASA: WAtermark-based Source Attribution for Large Language Model-Generated Data**, Preprint 2023 [[Paper]](https://arxiv.org/abs/2310.00646) ![](https://img.shields.io/badge/Item_Unfairness-orange) ![](https://img.shields.io/badge/Prompting-darkcyan)
+11. **User Behavior Simulation with Large Language Model based Agents**, Preprint 2023 [[Paper]](https://arxiv.org/abs/2306.02552) ![](https://img.shields.io/badge/Item_Unfairness-orange) ![](https://img.shields.io/badge/Prompting-darkcyan)
+12. **On Generative Agents in Recommendation**, Preprint 2023 [[Paper]](https://arxiv.org/abs/2310.10108) ![](https://img.shields.io/badge/Item_Unfairness-orange) ![](https://img.shields.io/badge/Prompting-darkcyan)
 
 ## Contributors
 <a href="https://github.com/KID-22/LLM-IR-Bias-Fairness-Survey/graphs/contributors">
