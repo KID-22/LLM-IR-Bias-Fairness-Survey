@@ -4,14 +4,18 @@ This is the collection of papers related to bias and fairness in IR with LLMs. T
 Please feel free to contact us if you have any questions or suggestions!
 
 ## 📋 Contents
-- [Bias](#bias)
-  - [Bias in Data Collection](#bias-in-data-collection)
-  - [Bias in Model Development](#bias-in-model-development)
-  - [Bias in Result Evaluation](#bias-in-result-evaluation)
-- [Unfairness](#unfairness)
-  - [Unfairness in Data Collection](#unfairness-in-data-collection)
-  - [Unfairness in Model Development](#unfairness-in-model-development)
-  - [Unfairness in Result Evaluation](#unfairness-in-result-evaluation)
+- [Introduction](#-introduction)
+- [Paper List](#-paper-list)
+  - [Bias](#bias)
+    - [Bias in Data Collection](#bias-in-data-collection)
+    - [Bias in Model Development](#bias-in-model-development)
+    - [Bias in Result Evaluation](#bias-in-result-evaluation)
+  - [Unfairness](#unfairness)
+    - [Unfairness in Data Collection](#unfairness-in-data-collection)
+    - [Unfairness in Model Development](#unfairness-in-model-development)
+    - [Unfairness in Result Evaluation](#unfairness-in-result-evaluation)
+- [Contributors](#contributors)
+
 
 ## 🌟 Introduction
 In this survey, we provide a comprehensive review of emerging and pressing issues related to bias and unfairness in three key stages of the integration of LLMs into IR systems.
