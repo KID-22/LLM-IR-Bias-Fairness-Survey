@@ -1,10 +1,19 @@
 # LLM-IR-Bias-Fairness
 This is the collection of papers related to bias and fairness in IR with LLMs. These papers are organized according to our survey paper **Unifying Bias and Unfairness in Information Retrieval: A Survey of Challenges and Opportunities with Large Language Models**.
 
-Please feel free to open an issue or make a pull request!
+Please feel free to contact us if you have any questions or suggestions!
 
 ## 📋 Contents
+- [Bias](#bias)
+  - [Bias in Data Collection](#bias-in-data-collection)
+  - [Bias in Model Development](#bias-in-model-development)
+  - [Bias in Result Evaluation](#bias-in-result-evaluation)
+- [Unfairness](#unfairness)
+  - [Unfairness in Data Collection](#unfairness-in-data-collection)
+  - [Unfairness in Model Development](#unfairness-in-model-development)
+  - [Unfairness in Result Evaluation](#unfairness-in-result-evaluation)
 
+  
 ## 📄 Paper List
 
 ### Bias
@@ -80,3 +89,6 @@ Please feel free to open an issue or make a pull request!
 <a href="https://github.com/KID-22/LLM-IR-Bias-Fairness-Survey/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=KID-22/LLM-IR-Bias-Fairness-Survey" />
 </a>
+
+:tada::+1: Please feel free to open an issue or make a pull request! :tada::+1:
+
