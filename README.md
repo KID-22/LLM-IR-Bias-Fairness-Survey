@@ -16,11 +16,15 @@ Please feel free to contact us if you have any questions or suggestions!
 ## 🌟 Introduction
 In this survey, we provide a comprehensive review of emerging and pressing issues related to bias and unfairness in three key stages of the integration of LLMs into IR systems.
 
-![LLM for Information Retrieval Overview](./assert/llm4ir_overview.png)
+<div align=center>
+  <img src="./assert/llm4ir_overview.png" height="300"/> 
+</div>
 
 We introduce a unified framework to understand these issues as distribution mismatch problems and systematically categorize mitigation strategies into data sampling and distribution reconstruction approaches.
 
-![Unified View on Bias and Fairness](./assert/unified_view.png)
+<div align=center>
+  <img src="./assert/unified_view.png" height="600"/> 
+</div>
 
   
 ## 📄 Paper List
