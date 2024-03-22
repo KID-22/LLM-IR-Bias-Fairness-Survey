@@ -143,10 +143,6 @@ We introduce a unified framework to understand these issues as distribution mism
 11. **User Behavior Simulation with Large Language Model based Agents**, Preprint 2023 [[Paper]](https://arxiv.org/abs/2306.02552) ![](https://img.shields.io/badge/Item_Unfairness-orange) ![](https://img.shields.io/badge/Prompting-darkcyan)
 12. **On Generative Agents in Recommendation**, Preprint 2023 [[Paper]](https://arxiv.org/abs/2310.10108) ![](https://img.shields.io/badge/Item_Unfairness-orange) ![](https://img.shields.io/badge/Prompting-darkcyan)
 
-## Contributors
-<a href="https://github.com/KID-22/LLM-IR-Bias-Fairness-Survey/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=KID-22/LLM-IR-Bias-Fairness-Survey" />
-</a> 
-
+## Contribution
 :tada::+1: Please feel free to open an issue or make a pull request! :tada::+1:
 
