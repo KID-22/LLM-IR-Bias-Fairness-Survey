@@ -14,7 +14,7 @@ Please feel free to contact us if you have any questions or suggestions!
     - [Unfairness in Data Collection](#unfairness-in-data-collection)
     - [Unfairness in Model Development](#unfairness-in-model-development)
     - [Unfairness in Result Evaluation](#unfairness-in-result-evaluation)
-- [Contributors](#contributors)
+- [Contribution](#contribution)
 
 
 ## 🌟 Introduction
