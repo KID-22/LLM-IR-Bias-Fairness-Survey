@@ -62,7 +62,7 @@ We introduce a unified framework to understand these issues as distribution mism
 9. **Improving Conversational Recommendation Systems via Bias Analysis and Language-Model-Enhanced Data Augmentation**, EMNLP 2023. [[Paper]](https://arxiv.org/abs/2310.16738) ![](https://img.shields.io/badge/Popularity_Bias-orange) ![](https://img.shields.io/badge/Data_Augmentation-darkcyan)
 10. **Understanding Biases in ChatGPT-based Recommender Systems: Provider Fairness, Temporal Stability, and Recency**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2401.10545) ![](https://img.shields.io/badge/Popularity_Bias-orange) ![](https://img.shields.io/badge/Prompting-darkcyan)
 11. **ChatGPT for Conversational Recommendation: Refining Recommendations by Reprompting with Feedback**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2401.03605) ![](https://img.shields.io/badge/Popularity_Bias-orange) ![](https://img.shields.io/badge/Prompting-darkcyan)
-
+12. **Cross-Task Generalization via Natural Language Crowdsourcing Instructions**, ACL 2022  [[Paper]](https://arxiv.org/abs/2104.08773) ![](https://img.shields.io/badge/Instruction-Hallucination_Bias-orange) ![](https://img.shields.io/badge/Data_Augmentation-darkcyan)
 
 #### Bias in Result Evaluation
 1. **Large Language Models Are Not Robust Multiple Choice Selectors**, ICLR 2024. [[Paper]](https://arxiv.org/abs/2309.03882) ![](https://img.shields.io/badge/Selection_Bias-orange) ![](https://img.shields.io/badge/Data_Augmentation-darkcyan)
