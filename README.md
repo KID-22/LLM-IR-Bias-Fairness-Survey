@@ -146,7 +146,7 @@ We introduce a unified framework to understand these issues as distribution mism
 ## Contributors
 <a href="https://github.com/KID-22/LLM-IR-Bias-Fairness-Survey/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=KID-22/LLM-IR-Bias-Fairness-Survey" />
-</a>
+</a> 
 
 :tada::+1: Please feel free to open an issue or make a pull request! :tada::+1:
 
