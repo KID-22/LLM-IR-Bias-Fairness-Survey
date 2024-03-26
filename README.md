@@ -21,7 +21,7 @@ Please feel free to contact us if you have any questions or suggestions!
 In this survey, we provide a comprehensive review of emerging and pressing issues related to bias and unfairness in three key stages of the integration of LLMs into IR systems.
 
 <div align=center>
-  <img src="./assert/llm4ir_overview.png" height="300"/> 
+  <img src="./assert/llm4ir_overview.png" height="350"/> 
 </div>
 
 We introduce a unified framework to understand these issues as distribution mismatch problems and systematically categorize mitigation strategies into data sampling and distribution reconstruction approaches.
