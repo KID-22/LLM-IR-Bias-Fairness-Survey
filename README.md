@@ -86,11 +86,9 @@ We introduce a unified framework to understand these issues as distribution mism
 13. **G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2303.16634) ![](https://img.shields.io/badge/Egocentric_Bias-orange) ![](https://img.shields.io/badge/Prompting-darkcyan) ![](https://img.shields.io/badge/Rebalancing-darkcyan)
 14. **PRD: Peer Rank and Discussion Improve Large Language Model based Evaluations**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2307.02762) ![](https://img.shields.io/badge/Egocentric_Bias-orange) ![](https://img.shields.io/badge/Data_Augmentation-darkcyan)
 15. **ALLURE: Auditing and Improving LLM-based Evaluation of Text using Iterative In-Context-Learning**, Preprint 2023. [[Paper]](https://arxiv.org/abs/2309.13701) ![](https://img.shields.io/badge/Egocentric_Bias-orange) ![](https://img.shields.io/badge/Prompting-darkcyan)
-
-
-
-
-
+16. **Teacher-Student Training for Debiasing: General Permutation Debiasing for Large Language Models**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2403.13590) ![](https://img.shields.io/badge/Selection_Bias-orange) ![](https://img.shields.io/badge/Rebalancing-darkcyan)
+17. **PRE: A Peer Review Based Large Language Model Evaluator**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2401.15641) ![](https://img.shields.io/badge/Selection_Bias-orange) ![](https://img.shields.io/badge/Data_Augmentation-darkcyan)
+18. **Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2403.16950) ![](https://img.shields.io/badge/Selection_Bias-orange) ![](https://img.shields.io/badge/Data_Augmentation-darkcyan)
 
 
 
