@@ -3,6 +3,18 @@ This is the collection of papers related to bias and fairness in IR with LLMs. T
 
 Please feel free to contact us if you have any questions or suggestions!
 
+## Citation
+If you find our work useful for your research, please cite our work:
+```
+@article{dai2024unifying,
+  title={Unifying Bias and Unfairness in Information Retrieval: A Survey of Challenges and Opportunities with Large Language Models},
+  author={Dai, Sunhao and Xu, Chen and Xu, Shicheng and Pang, Liang and Dong, Zhenhua and Xu, Jun},
+  journal={arXiv preprint arXiv:2404.11457},
+  year={2024}
+}
+```
+
+
 ## 📋 Contents
 - [Introduction](#-introduction)
 - [Paper List](#-paper-list)
