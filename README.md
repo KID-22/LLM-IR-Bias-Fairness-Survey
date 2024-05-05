@@ -1,5 +1,5 @@
 # Survey: LLM-IR-Bias-Fairness
-This is the collection of papers related to bias and fairness in IR with LLMs. These papers are organized according to our survey paper **Unifying Bias and Unfairness in Information Retrieval: A Survey of Challenges and Opportunities with Large Language Models**[[PDF]](https://arxiv.org/abs/2404.11457).
+This is the collection of papers related to bias and fairness in IR with LLMs. These papers are organized according to our survey paper **Unifying Bias and Unfairness in Information Retrieval: A Survey of Challenges and Opportunities with Large Language Models** [[PDF]](https://arxiv.org/abs/2404.11457).
 
 Please feel free to contact us if you have any questions or suggestions!
 
