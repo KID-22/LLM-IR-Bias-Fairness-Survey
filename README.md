@@ -101,7 +101,7 @@ We introduce a unified framework to understand these issues as distribution mism
 16. **Teacher-Student Training for Debiasing: General Permutation Debiasing for Large Language Models**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2403.13590) ![](https://img.shields.io/badge/Selection_Bias-orange) ![](https://img.shields.io/badge/Rebalancing-darkcyan)
 17. **PRE: A Peer Review Based Large Language Model Evaluator**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2401.15641) ![](https://img.shields.io/badge/Selection_Bias-orange) ![](https://img.shields.io/badge/Data_Augmentation-darkcyan)
 18. **Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2403.16950) ![](https://img.shields.io/badge/Selection_Bias-orange) ![](https://img.shields.io/badge/Data_Augmentation-darkcyan)
-19. **LLM Evaluators Recognize and Favor Their Own Generations**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2404.13076) ![](https://img.shields.io/badge/Egocentric_Bias-orange)
+19. **LLM Evaluators Recognize and Favor Their Own Generations**, Preprint 2024. [[Paper]](https://arxiv.org/abs/2404.13076) ![](https://img.shields.io/badge/Egocentric_Bias-orange) ![](https://img.shields.io/badge/Selection_Bias-orange)
 
 
 
