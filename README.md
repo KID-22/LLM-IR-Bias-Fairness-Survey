@@ -1,5 +1,5 @@
 # Survey: LLM-IR-Bias-Fairness
-This is the collection of papers related to bias and fairness in IR with LLMs. These papers are organized according to our survey paper **Unifying Bias and Unfairness in Information Retrieval: A Survey of Challenges and Opportunities with Large Language Models** [[PDF]](https://arxiv.org/abs/2404.11457).
+This is the collection of papers related to bias and fairness in IR with LLMs. These papers are organized according to our survey paper **Bias and Unfairness in Information Retrieval Systems: New Challenges in the LLM Era** [[PDF]](https://arxiv.org/abs/2404.11457).
 
 **🌟 News!🌟** We will provide a **Lecture-Style Tutorial at KDD 2024** about "Bias and Unfairness in Information Retrieval Systems: New Challenges in the LLM Era"! For more details, please check it [here](https://llm-ir-bias-fairness.github.io/). This survey paper will be published with this tutorial as part of KDD 2024 proceedings.
 
@@ -8,10 +8,11 @@ Please feel free to contact us if you have any questions or suggestions!
 ## Citation
 If you find our work useful for your research, please cite our work:
 ```
-@article{dai2024unifying,
-  title={Unifying Bias and Unfairness in Information Retrieval: A Survey of Challenges and Opportunities with Large Language Models},
+@inproceedings{dai2024bias,
+  title={Bias and Unfairness in Information Retrieval Systems: New Challenges in the LLM Era},
   author={Dai, Sunhao and Xu, Chen and Xu, Shicheng and Pang, Liang and Dong, Zhenhua and Xu, Jun},
-  journal={arXiv preprint arXiv:2404.11457},
+  booktitle={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={6437--6447},
   year={2024}
 }
 ```
