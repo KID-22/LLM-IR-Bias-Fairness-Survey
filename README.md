@@ -18,6 +18,15 @@ If you find our work useful for your research, please cite our work:
   pages={6437--6447},
   year={2024}
 }
+
+@inproceedings{dai2025unifying,
+title = {Unifying Bias and Unfairness in Information Retrieval: New Challenges in the LLM Era},
+author = {Dai, Sunhao and Xu, Chen and Xu, Shicheng and Pang, Liang and Dong, Zhenhua and Xu, Jun},
+booktitle = {Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining},
+pages = {998–1001},
+numpages = {4},
+year = {2025},
+}
 ```
 
 
