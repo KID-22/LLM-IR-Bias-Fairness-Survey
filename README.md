@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/686fe388-23de-4c6d-9f52-bcfe2f29416b)# Survey: LLM-IR-Bias-Fairness
 This is the collection of papers related to bias and fairness in IR with LLMs. These papers are organized according to our survey paper **Bias and Unfairness in Information Retrieval Systems: New Challenges in the LLM Era** [[PDF]](https://arxiv.org/abs/2404.11457).
 
 #### 🌟 News!🌟   
