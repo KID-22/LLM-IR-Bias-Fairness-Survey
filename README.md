@@ -1,4 +1,5 @@
-This is the collection of papers related to bias and fairness in IR with LLMs. These papers are organized according to our survey paper **Bias and Unfairness in Information Retrieval Systems: New Challenges in the LLM Era** [[PDF]](https://arxiv.org/abs/2404.11457).
+# Survey: LLM-IR-Bias-Fairness
+ This is the collection of papers related to bias and fairness in IR with LLMs. These papers are organized according to our survey paper **Bias and Unfairness in Information Retrieval Systems: New Challenges in the LLM Era** [[PDF]](https://arxiv.org/abs/2404.11457).
 
 #### 🌟 News!🌟   
 **[2024/10/25]** Our updated version tutorial proposal has been accepted by **[WSDM 2025 as a Half-Day Tutorial](https://www.wsdm-conference.org/2025/tutorials/)**, see you in Hannover, Germany!   
